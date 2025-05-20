@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hey! Call me Jam.
+
+I'm a full-stack software engineer focusing traditionally on development in the
+Typescript (and JavaScript) ecosystem(s). On the side, I also do creative and
+content related to the web platform and internet at large.
 
 <!--
-**jemjam/jemjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jemjam/jemjam** is a ✨ _special_ ✨ repository because its `README.md` (this
+file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+(These are good ideas that I think I'll revisit. Which is why they're still
+here for now...)
+
 -->
